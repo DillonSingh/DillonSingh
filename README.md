@@ -1,7 +1,7 @@
-- 👋 Hi! I’m @DillonSingh
+- 👋 Hi! I’m Dillon Singh
 - 👀 I’m an aspiring Red Teamer
 - 🌱 I’m currently learning C++, Python, & PowerShell
-- 💞️ I’m looking to collaborate on anything to improve my programming skills! 
+- 💞️ I intend to create a repository of C++ and Python projects to demonstrate my programming abilities
 - 📫 How to reach me - LinkedIn Dillon Singh
 
 <!---
