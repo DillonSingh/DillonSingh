@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DillonSingh
-- 👀 I’m interested in becoming a Red Team Operator 
-- 🌱 I’m currently learning C++ 
+- 👋 Hi! I’m @DillonSingh
+- 👀 I’m an aspiring Red Teamer
+- 🌱 I’m currently learning C++, Python, & PowerShell
 - 💞️ I’m looking to collaborate on anything to improve my programming skills! 
-- 📫 How to reach me - LinkedIn Dillon Singh - Cyber Security Learner | Aspiring Red Teamer
+- 📫 How to reach me - LinkedIn Dillon Singh
 
 <!---
 DillonSingh/DillonSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
