@@ -1,7 +1,7 @@
 - 👋 Hi! I’m Dillon Singh
 - 👀 I’m an aspiring Red Teamer
-- 🌱 I’m currently learning C++, Python, & PowerShell
-- 💞️ I intend to create a repository of C++ and Python projects to demonstrate my programming abilities
+- 🌱 I’m currently learning Python
+- 💞️ I intend to create a repository of C++ and Python ethical hacking tools
 - 📫 How to reach me - LinkedIn Dillon Singh
 
 <!---
