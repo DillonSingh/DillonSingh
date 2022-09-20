@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Dillon Singh
-- 👀 I’m an aspiring Red Teamer
+- 👀 I’m an aspiring Red Team Operator 
 - 🌱 I’m currently learning C++
 - 📫 How to reach me - LinkedIn Dillon Singh
 
