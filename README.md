@@ -1,7 +1,11 @@
-- 👋 Hi! I’m Dillon Singh
-- 👀 I’m an aspiring Red Team Operator 
-- 🌱 I’m currently learning C++
-- 📫 How to reach me - LinkedIn Dillon Singh
+- Hi! I’m Dillon
+- I’m an aspiring Red Team Engineer  
+- I’m learning C++ & PowerShell scripting
+- I'll be posting my personal C++ projects on here 
+
+- Email: dillonsingh98@gmail.com 
+- LinkedIn Page: https://www.linkedin.com/in/dillon-singh/
+- Technical Blog: https://medium.com/@DillonSingh/about
 
 <!---
 DillonSingh/DillonSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
