@@ -1,5 +1,5 @@
 - Hi! I’m Dillon
-- My passion are in Software Engineering, Pentesting, and Red Teaming
+- My passions are in Software Engineering, Pentesting, and Red Teaming
 - I am currently studying Cyber Security with MalTrak, however, I want to do this in addition to a Software Engineering Apprenticeship
 - I’m currently learning C++ & PowerShell scripting
 - The role I am working towards is a Red Team Engineer
