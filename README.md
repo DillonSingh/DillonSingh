@@ -1,6 +1,6 @@
 - Hi! I’m Dillon
 - My passions are in Software Engineering and Red Teaming
-- I am currently studying Cyber Security with MalTrak however, I want to do this in addition to a Software Engineering Apprenticeship or a Cyber Security Development Program
+- I am currently studying Cyber Security with MalTrak however, I want to do this in addition to a Software Engineering or a Cyber Security Development Program
 - The languages I'm currently learning are C++ & PowerShell. I want to learn a multitude of languages though
 - To continue to develop my red teaming skills, I will practice and learn from MalTrak's offensive security trainings
 
